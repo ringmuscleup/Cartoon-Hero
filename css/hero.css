@@ -1,0 +1,103 @@
+body{
+	margin: 0;
+	background-image: url("img/sakurapetals.png");
+	background-color:  #fde9fe   ;
+	font-family: 'Ruda', sans-serif;
+	font-size: 20px;
+	line-height: 30px;
+}
+
+header {
+	background-color: #c284b1;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 30px;
+}
+h1{
+	font-family: Bahianita, Arial, sans-serif;
+	font-size: 80px;
+}
+h2{
+	font-family: Bahianita, Arial, sans-serif;
+	font-size: 50px;
+	color:   #a01738  ;
+	margin: 40px 0 10px;
+}
+
+header h1{
+	color:  #f9eafa ;
+}
+
+header img{
+	border-radius: 100px;
+	width: 400px;
+	border: 8px solid #fde9fe;
+}
+
+main{
+	max-width: 1000px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+a {
+	color:  #a01738 ;
+}
+
+a:hover{
+	color: #c284b1;
+}
+
+footer{
+	background-color: #c284b1;
+	text-align: center;
+	color: white;
+	padding: 50px;
+}
+
+footer p{
+	margin: 0;
+}
+
+footer a{
+	color: white;
+}
+
+footer a:hover{
+	opacity: .5;
+	color: red;
+}
+
+p.caption{
+	color: #999999;
+	font-style: italic;
+	margin-top: 0;
+	text-align: center;
+}
+
+img.reverse{
+	display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+  border-radius: 100px;
+	width: auto;
+	border: 3px solid #999999;
+}
+
+ul img{
+	vertical-align:middle;
+	border-radius: 50%;
+	width: 70px;
+	height: 70px;
+	margin: 10px;
+}
+h2.grep{
+	text-align: center;
+}
+p.greg{
+	text-align: center;
+}
+body, html{
+	height: 100%;
+}
