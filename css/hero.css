@@ -1,11 +1,11 @@
 body{
 	margin: 0;
-	background-image: url("img/sakurapetals.png");
 	background-color:  #fde9fe   ;
 	font-family: 'Ruda', sans-serif;
 	font-size: 20px;
 	line-height: 30px;
 }
+
 
 header {
 	background-color: #c284b1;
