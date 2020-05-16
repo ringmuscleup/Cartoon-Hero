@@ -1,9 +1,10 @@
 body{
 	margin: 0;
-	background-color:  #fde9fe   ;
+	
 	font-family: 'Ruda', sans-serif;
 	font-size: 20px;
 	line-height: 30px;
+
 }
 
 
@@ -34,7 +35,7 @@ header img{
 	border: 8px solid #fde9fe;
 }
 
-main{
+#container{
 	max-width: 1000px;
 	margin: 0 auto;
 	padding: 20px;
@@ -100,4 +101,9 @@ p.greg{
 }
 body, html{
 	height: 100%;
+}
+
+main{
+	width: 100%;
+	background-color: #fde9fe;
 }
